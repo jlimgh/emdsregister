@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qdtVL6k6Ud41QUoUmnUFfaOC4XLblh4YZjl5ewyAWZ4=",
+  "Source": "api-registration",
+  "BasePath": "_content/api-registration",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

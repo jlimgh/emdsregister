@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tc+nMzo+w5ekBYhC99UbxEYQ4eZiRllCLBx+rFqj8FY=",
+  "Source": "api-registration",
+  "BasePath": "_content/api-registration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
